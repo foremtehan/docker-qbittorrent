@@ -68,5 +68,3 @@ COPY root/ /
 
 # ports and volumes
 EXPOSE 8080 6881 6881/udp
-
-VOLUME /config
